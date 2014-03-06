@@ -1,0 +1,19 @@
+{
+    "name": "json-compressor",
+    "version": "1.0.0",
+    "description": "Sometimes we need to sqeeuze more JSON together",
+    "main": "JSONCompressor.js",
+    "scripts": {
+        "test": "echo Ain't nobody got time for that && exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EaterOfCode/JSON-Compressor.git"
+    },
+    "author": "Corné \"EaterOfCode\" Oppelaar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/EaterOfCode/JSON-Compressor/issues"
+    },
+    "homepage": "https://github.com/EaterOfCode/JSON-Compressor"
+}
